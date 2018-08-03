@@ -24,7 +24,7 @@ github_username: svetzal
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: jekyll-theme-hacker
 gems:
   - jekyll-feed
 
