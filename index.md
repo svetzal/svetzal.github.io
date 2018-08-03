@@ -8,6 +8,6 @@ If you're a member of the Vetzal extended family, and would like to see somethin
 
 Some Interesting Links...
 
-- <a href="mailto:wvetzal@rogers.com">William Vetzal</a>, Whitby Ontario, Retired, has a short Bandura focused bio on Wikipedia and maintains VetzalBandura.com.
-- <a href="mailto:stacey@vetzal.com">Stacey Vetzal</a>, Wilberforce Ontario, owner of <a href="https://mojility.ca">Mojility Inc.</a>, and her - - <a href="https://svetzal.wordpress.com">blog is here</a>.
-- George Vetzal, Bowmanville Ontario, owner of <a href="http://www.gtservicesltd.ca">GT Services Ltd.</a>
+- [William Vetzal](mailto:wvetzal@rogers.com), Whitby Ontario, Retired, has a short Bandura focused [bio on Wikipedia](https://en.wikipedia.org/wiki/William_Vetzal).
+- [Stacey Vetzal](stacey@vetzal.com), Wilberforce Ontario, owner of [Mojility Inc.](https://mojility.ca), and her [blog is here](https://svetzal.wordpress.com)">.
+- George Vetzal, Bowmanville Ontario, owner of [GT Services Ltd.](http://www.gtservicesltd.ca)
