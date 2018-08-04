@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 Welcome to vetzal.com, the connecting point for members of the Vetzal family.
