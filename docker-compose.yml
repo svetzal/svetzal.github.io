@@ -1,0 +1,7 @@
+vetzal:
+  build: .
+  volumes:
+    - .:/site
+  ports:
+    - "4000:4000"
+  command: bundle exec jekyll server -w -H 0.0.0.0

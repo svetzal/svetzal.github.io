@@ -9,9 +9,5 @@ github_username: svetzal
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
-gems:
+plugins:
   - jekyll-feed
-
-github:
-  is_project_page: false
