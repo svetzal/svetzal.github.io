@@ -8,5 +8,5 @@ If you're a member of the Vetzal extended family, and would like to see somethin
 Some Interesting Links...
 
 - [William Vetzal](mailto:wvetzal@rogers.com), Whitby Ontario, retired, has a short Bandura focused [bio on Wikipedia](https://en.wikipedia.org/wiki/William_Vetzal).
-- [Stacey Vetzal](mailto:stacey@vetzal.com), Wilberforce Ontario, owner of [Mojility Inc.](https://mojility.ca), creator of [CodingCulture.io](https://codingculture.io) and her [blog is here](https://svetzal.wordpress.com).
+- [Stacey Vetzal](mailto:stacey@vetzal.com), Wilberforce Ontario, owner of [Mojility Inc.](https://mojility.ca), creator of [CodingCulture.io](https://codingculture.io), and her [personal blog is here](https://svetzal.wordpress.com).
 - George Vetzal, Bowmanville Ontario, owner of [GT Services Ltd.](http://www.gtservicesltd.ca)
