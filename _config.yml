@@ -1,9 +1,9 @@
-title: vetzal.com
+title: vetzal.ca
 email: stacey@vetzal.com
 description: >
-  Welcome to vetzal.com, the connecting point for members of the Vetzal family.
+  Welcome to vetzal.ca, the connecting point for members of the Vetzal family.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://vetzal.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vetzal.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@svetzal"
 github_username: svetzal
 
